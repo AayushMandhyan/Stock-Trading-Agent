@@ -10,9 +10,10 @@ Over the course of a semester, I learned and built this system using:
 
 To successfully create a profitable Trading Agent in the simulated environment.
 
-I am using this github repository as a medium to provided detailed description of my work in the form of a report.
+I am using this github repository as a medium to provided detailed description of my work in the form of a [report](https://github.com/AayushMandhyan/Stock-Trading-Agent/blob/master/Stock%20Trading%20Agent%20Report.pdf).
 
 Please reach out to me at email (mandhyanaayu.gmail.com), if you have any questions or just want to have a conversation about Reinforcement Learning or the Trading agent.
 
 Best,
+
 Aayush Mandhyan.
