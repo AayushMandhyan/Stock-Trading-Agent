@@ -1,6 +1,6 @@
 # Stock-Trading-Agent
 
-As a Data Science Master's student at Rutger's University. I took upon an Independent Study under the guidance of Professor Charles W. Cowan (a great mentor). The goal of this study was to design and develop a **Stock Trading Agent using Reinforcement Learning techniques** which earn's reward/profit at the end of a time interval. 
+As a Data Science Master's student at Rutger's University. I took upon an Independent Study under the guidance of **Professor Charles W. Cowan** (a great mentor). The goal of this study was to design and develop a **Stock Trading Agent using Reinforcement Learning techniques** which earn's reward/profit at the end of a time interval. 
 
 Over the course of a semester, I learned and built this system using:
 - Simulation Techniques to generate stock ticker data.
